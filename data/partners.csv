@@ -1,0 +1,6 @@
+PartnerName,PartnerType,Address,EstimatedReach,Latitude,Longitude,ContactStatus,PotentialValue,LastContactDate
+University of Paris,University,25 Boulevard Saint-Michel 75005 Paris,3500,48.8489,2.3414,Contacted,High,2025-01-15
+Global Tech Inc.,Corporate,78 Avenue des Champs-Élysées 75008 Paris,250,48.8697,2.3075,Active Partner,Medium,2025-02-20
+Paris Move Agency,Relocation Agency,42 Rue de Rivoli 75004 Paris,850,48.8567,2.3508,Identified,High,2025-03-05
+French Language Center,Language School,15 Rue Monge 75005 Paris,1200,48.8448,2.3524,Meeting Scheduled,Medium,2025-01-30
+International Expat Society,Association,88 Boulevard de Sébastopol 75003 Paris,1800,48.8641,2.3513,Inactive,Low,2024-12-10
